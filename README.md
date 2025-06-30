@@ -11,7 +11,7 @@ Handwritten Text Recognition (HTR) is essential for applications such as documen
 > 📝 Authors: Bittu Kumar, Gudi Srikanth, Bommidi Sathvik, Kotha Ajay Kumar Rao, Kurma Srujan  
 > 🎓 Department of Electronics and Communication Engineering  
 > 📍 KL University, Hyderabad  
-> 📄 [Download Full Paper](./Modified_HTR.pdf)
+> 📄 [Download Full Paper](./HTR.pdf)
 
 ---
 
